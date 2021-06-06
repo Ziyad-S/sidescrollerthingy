@@ -1,7 +1,7 @@
 # sidescrollerthingy
 
-##website cuz I don't know how this works
-##https://ziyad-s.github.io/ziqba3/
+## website cuz I don't know how this works
+## https://ziyad-s.github.io/ziqba3/
 
 
 Version 1:
