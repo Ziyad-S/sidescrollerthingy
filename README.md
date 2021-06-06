@@ -15,3 +15,7 @@ https://editor.p5js.org/ziqba3/sketches/Dz5sJfsuH
 Version 1.3 
 Buttons and slides 
 https://editor.p5js.org/ziqba3/sketches/2fnljBBCn
+
+Version 1.4
+Slides finished 
+https://editor.p5js.org/ziqba3/sketches/8nvFhBgtD
